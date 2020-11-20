@@ -6,13 +6,15 @@
 
 登录教务处
 进入全校课程表界面
-![image](https://github.com/Mr-k-bear/DLPU_KCB/blob/main/p1.png)
+![image](https://github.com/Mr-k-bear/DLPU_KCB/blob/main/p1.png?raw=true)
 
 打开控制台
 切换context至fcenter(kbxx_kc_ifr)
-![image](https://github.com/Mr-k-bear/DLPU_KCB/blob/main/p2.png)
+![image](https://github.com/Mr-k-bear/DLPU_KCB/blob/main/p2.png?raw=true)
 
 getClist.js内的代码粘贴到控制台回车执行
+![image](https://github.com/Mr-k-bear/DLPU_KCB/blob/main/p3.png?raw=true)
+
 
 代码返回“执行成功”代表执行完毕
 此时可以在控制台查看统计结果
